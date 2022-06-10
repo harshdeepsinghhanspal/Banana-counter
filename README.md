@@ -5,3 +5,5 @@
 [+] Here we can count anything we want just change BANANA to anything available in the coco file.
 
 [+] Also this can count through Webcams and we can also add recorded video and count the required object.
+
+[+] Downside is Yolo works slow in this case but accuracy is very high. For speed, Yolo-tiny is there but the accuracy is lost.
